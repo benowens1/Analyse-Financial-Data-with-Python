@@ -30,3 +30,5 @@ An analysis of 5,000 different portfolios containing random weightings of the to
 analysing_nasdaq_stocks.ipynb >>> *Contains the code for analysing the stock data.*
 
 requirements.txt >>> *List of all libraries that the project requires.*
+
+analysing_nasdaq_stocks_presentation.pdf >>> *Presentation of findings.*
